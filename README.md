@@ -32,12 +32,16 @@
 <br/>
  
  
-I explaning code throught, github. I try today. so, I leaning github method. Thank you. 
+I explaning code throught, github. I try today. so, I leaning github method. Thank you. <br/>
+<br/>
 if I better know that, github. I not native speaking on English. so I can't do way this, close positioning, programming, like learning on github.
+<br/>
 <br/>
 Source. and I do making intellect sharing. Like class room. Funny, interestting, make conversation like class room.
 <br/>
+<br/>
 Help friend, on class room. Make good help to whom, like sharing, etc.
+<br/>
 <br/>
 So, I make that, explaning code. ExplinCode1. Enjoy today~. 
 <br/>
