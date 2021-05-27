@@ -4,8 +4,8 @@
 <br/>
 <br/>
 <h2>Let's safely life, check smartphone using. </h2>
- 
- <h2>Let's safely use smartphones, etc. Thank you.</h2> 
+ <br/>
+ <h3>Let's safely use smartphones, etc. Thank you.</h3> 
  
 <br/>
 <br/>
@@ -48,6 +48,6 @@ So, I make that, explaning code. ExplinCode1. Enjoy today~.
  And Let's go church~. Jesus Christ. Calling to church. Restting. Thank you.
  <br/>
  <br/><br/>
- Thank you, watching my github. Thank you.
+ <h2>Thank you, watching my github. Thank you.</h2>
  <br/> <br/><br/>
- 2021-05-27.
+<h2>2021-05-27.</h2>
